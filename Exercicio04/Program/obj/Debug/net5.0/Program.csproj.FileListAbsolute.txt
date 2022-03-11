@@ -1,0 +1,16 @@
+C:\project1\Program\Exercicio04\Program\bin\Debug\net5.0\Program.exe
+C:\project1\Program\Exercicio04\Program\bin\Debug\net5.0\Program.deps.json
+C:\project1\Program\Exercicio04\Program\bin\Debug\net5.0\Program.runtimeconfig.json
+C:\project1\Program\Exercicio04\Program\bin\Debug\net5.0\Program.runtimeconfig.dev.json
+C:\project1\Program\Exercicio04\Program\bin\Debug\net5.0\Program.dll
+C:\project1\Program\Exercicio04\Program\bin\Debug\net5.0\ref\Program.dll
+C:\project1\Program\Exercicio04\Program\bin\Debug\net5.0\Program.pdb
+C:\project1\Program\Exercicio04\Program\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
+C:\project1\Program\Exercicio04\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\project1\Program\Exercicio04\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+C:\project1\Program\Exercicio04\Program\obj\Debug\net5.0\Program.AssemblyInfo.cs
+C:\project1\Program\Exercicio04\Program\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+C:\project1\Program\Exercicio04\Program\obj\Debug\net5.0\Program.dll
+C:\project1\Program\Exercicio04\Program\obj\Debug\net5.0\ref\Program.dll
+C:\project1\Program\Exercicio04\Program\obj\Debug\net5.0\Program.pdb
+C:\project1\Program\Exercicio04\Program\obj\Debug\net5.0\Program.genruntimeconfig.cache
